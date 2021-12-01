@@ -14,7 +14,7 @@ public class Task {
 
 
     public Task(String title, int time) {
-        boolean b;
+
         this.title = title;
         this.time = time;
         this.start = time;
